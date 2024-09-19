@@ -99,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programação/C/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programação/C/C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programação/C/C.md"
+              }
             }
           }
         ]
@@ -157,8 +161,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e50fc090fd0f66bf",
+  "active": "e5c93e7b5505e302",
   "lastOpenFiles": [
+    "Novo(a) Documento de Texto.txt",
     "Programação/C/C.md",
     "Palacio-Mental/README.md",
     "Palacio-Mental",
