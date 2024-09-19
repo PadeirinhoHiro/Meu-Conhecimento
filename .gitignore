@@ -1,5 +1,11 @@
+.obsidian/*
 .obsidian/themes
 .obsidian/appearance.json
 .obsidian/workspace.json
 .obsididan/snippets
-.obisidian/plugins
+.obsidian/plugins/*
+.obsidian-git-data
+Untitled*
+
+.trash/
+.DS_Store
