@@ -1,0 +1,1 @@
+[[Programação/Python/Tipos de Dados]]
