@@ -1,6 +1,6 @@
 C é uma linguagem de alto nível (comparada com assembly ou binário), porém também de baixo nível (quando comparada com python ou javascript). C não contém estruturas de dados pré-configuradas e deixa a cargo do programador estrutura-las, além disso C é uma linguagem fortemente tipada em que pra declarar variáveis e funções você precisa definir o tipo da variável para variáveis e tipos de retorno e de argumentos para funções!
 
-Abaixo um código para printar Hello World! no terminal
+Abaixo um código para printar Hello World! no terminal.
 ```C
 #include <stdio.h>
 
@@ -15,6 +15,8 @@ Hello World!$
 ```
 Representação quase fiel de um printf  sem \\n
 OBS: $ é onde você irá ver os comandos do terminal que você irá escrever.
+
+Em resumo, C é uma ótima linguagem para iniciar e aprender mais sobre estruturas de dados, impacto de diferentes tipos de dados na memória e para ganhar mais intimidade com compiladores.
 
 # Links úteis para saber mais sobre esta linguagem!
 
