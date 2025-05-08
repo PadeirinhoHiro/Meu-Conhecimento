@@ -5,7 +5,7 @@ matriz[0] = 2;
 matriz[1] = 3;
 ```
 
-Arrays também podem ser escritas de forma N-dimensional
+Array's também podem ser escritas de forma N-dimensional
 ```C
 int matriz_2[2][2];
 matriz_2[0][0] = 1;
